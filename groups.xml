@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<groups>
+	<group id="1">
+		<name>Designers</name>
+		<students>
+			<student id="1">
+				<firstName>Noname1</firstName>
+				<lastName>Noname1-2</lastName>
+				<age>20</age>
+				<avengerScore>10</avengerScore>
+			</student>
+			<student id="2">
+				<firstName>Noname2</firstName>
+				<lastName>Noname2-2</lastName>
+				<age>20</age>
+				<avengerScore>11</avengerScore>
+			</student>
+		</students>
+	</group>
+	<group id="2">
+		<name>Developers</name>
+		<students>
+			<student id="2">
+				<firstName>Noname3</firstName>
+				<lastName>Noname3-2</lastName>
+				<age>18</age>
+				<avengerScore>9</avengerScore>
+			</student>
+			<student id="2">
+				<firstName>Noname4</firstName>
+				<lastName>Noname4-2</lastName>
+				<age>19</age>
+				<avengerScore>10</avengerScore>
+			</student>
+		</students>
+	</group>
+</groups>
